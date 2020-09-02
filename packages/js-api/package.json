@@ -1,0 +1,14 @@
+{
+  "name": "@teamwork/js-api",
+  "version": "1.0.0",
+  "description": "## Introduction The principle function of the data layer is to create an asynchronous interface to interact with thew Teamwork API.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.20.0"
+  }
+}
